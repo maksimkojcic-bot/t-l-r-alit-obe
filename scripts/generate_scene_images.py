@@ -20,8 +20,8 @@ def scene_prompt(scene: dict[str, Any], episode: dict[str, Any]) -> str:
             "Production requirements:",
             "- Vertical 9:16 TikTok frame.",
             "- No visible captions, no readable text, no logos, no copyrighted characters.",
-            "- Original 3D animated family movie look, expressive but respectful characters.",
-            "- Keep body diversity stylized and dignified; the comedy comes from the situation.",
+            "- Original 3D animated family movie look with anthropomorphic fruit-headed characters.",
+            "- No human faces or realistic human heads; the comedy comes from fruit personalities and the situation.",
             "- Leave clear lower-third space for subtitles.",
             f"- Episode: {episode.get('title', '')}. Scene type: {scene.get('type', '')}.",
         ]
