@@ -1,14 +1,14 @@
 # Objectif 70 - Automation TikTok / Shorts
 
-Starter de production pour une mini telerealite 3D cartoon verticale.
+Starter de production pour une mini telerealite 3D cartoon verticale avec des candidats fruits anthropomorphes.
 
 ## Concept
 
-Des candidats participent a une competition de transformation pour passer sous la barre symbolique des **70 kg** et gagner **100 000 EUR**. Chaque episode met en scene une tentation absurde, un conflit de villa, une epreuve ou une decision de groupe.
+Des fruits anthropomorphes participent a une competition de transformation pour passer sous la barre symbolique des **70 kg** et gagner **100 000 EUR**. Chaque episode met en scene une tentation absurde, un conflit de villa, une epreuve ou une decision de groupe.
 
 Le ton vise : humour POV tres oral, agressif, telerealite exageree, personnages attachants, montage rapide, sous-titres lisibles, langage familier/grossier maitrise.
 
-Le ton evite : humiliation du corps, insultes sur le poids, blagues degradantes, medicalisation lourde, copie directe d'un createur existant.
+Le ton evite : humiliation du corps humain, insultes sur le poids de vraies personnes, blagues degradantes sur des humains, medicalisation lourde, copie directe d'un createur existant.
 
 ## Structure
 
@@ -93,6 +93,10 @@ Generer une image reelle avec Gemini :
 /Users/loupwallstreet/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/generate_scene_images.py episodes/episode-004.json --limit 1 --run
 ```
 
+Note cout : sur le projet actuel, Gemini image a retourne un quota gratuit a
+`0`. La strategie recommandee est donc de creer les assets fruits avec
+ChatGPT image, puis de monter/animer avec Remotion.
+
 Generer les voix apres validation :
 
 ```bash
@@ -102,7 +106,7 @@ Generer les voix apres validation :
 ## Format valide apres analyse
 
 - Duree cible : environ 60 secondes.
-- 5 candidats recurrents, avec animateur/coach en voix de production si besoin.
+- 5 candidats recurrents sous forme de fruits, avec animateur/coach fruits en voix de production si besoin.
 - Structure POV / sketch simple / chute forte.
 - Langage : francais oral, direct, parfois grossier, mais sans attaque sur le corps.
 - Humour : mauvaise foi agressive, panique, contraste, autorite absurde, tentation alimentaire, clashs rapides.

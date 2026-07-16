@@ -1,7 +1,7 @@
 scene_id,time,speaker,character_name,voice_env,text,output_file
-s01_pov,0-3,host,L'Animateur,VOICE_HOST,"POV : premiere seance de sport, le tapis a declare la guerre.",voices/episode-004-s01_pov-host.mp3
-s02_situation,3-10,candidate_4,Le Dramatique,VOICE_CANDIDATE_4,"Putain le tapis avance tout seul, deja cette machine a une attitude de merde.",voices/episode-004-s02_situation-candidate_4.mp3
-s03_excuse,10-24,candidate_4,Le Dramatique,VOICE_CANDIDATE_4,"Moi je cours pas, je negocie avec mes genoux. Ils sont syndiques.",voices/episode-004-s03_excuse-candidate_4.mp3
-s04_authority,24-39,coach,Le Coach,VOICE_COACH,"Respire. Le tapis t'en veut pas personnellement, mais il te respecte pas non plus.",voices/episode-004-s04_authority-coach.mp3
-s05_group_reaction,39-51,candidate_5,Le Chef,VOICE_CANDIDATE_5,"Il a mis pause au bout de huit secondes et il a appele ca une serie. Chef, c'etait une bande-annonce.",voices/episode-004-s05_group_reaction-candidate_5.mp3
-s06_cliffhanger,51-60,host,L'Animateur,VOICE_HOST,Le coach annonce que l'echauffement n'avait meme pas commence.,voices/episode-004-s06_cliffhanger-host.mp3
+s01_pov,0-3,host,Ananas Prime,VOICE_HOST,"POV : premiere seance de sport, le tapis a declare la guerre.",voices/episode-004-s01_pov-host.mp3
+s02_situation,3-10,candidate_4,Mangolo,VOICE_CANDIDATE_4,"Putain le tapis avance tout seul, deja cette machine a une attitude de merde.",voices/episode-004-s02_situation-candidate_4.mp3
+s03_excuse,10-24,candidate_4,Mangolo,VOICE_CANDIDATE_4,"Moi je cours pas, je negocie avec mes genoux. Ils sont syndiques.",voices/episode-004-s03_excuse-candidate_4.mp3
+s04_authority,24-39,coach,Coach Broco,VOICE_COACH,"Respire. Le tapis t'en veut pas personnellement, mais il te respecte pas non plus.",voices/episode-004-s04_authority-coach.mp3
+s05_group_reaction,39-51,candidate_1,Peachea,VOICE_CANDIDATE_1,"Il a mis pause au bout de huit secondes et il a appele ca une serie. Chef, c'etait une bande-annonce.",voices/episode-004-s05_group_reaction-candidate_1.mp3
+s06_cliffhanger,51-60,host,Ananas Prime,VOICE_HOST,Le coach annonce que l'echauffement n'avait meme pas commence.,voices/episode-004-s06_cliffhanger-host.mp3

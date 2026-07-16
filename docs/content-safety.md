@@ -1,17 +1,18 @@
 # Content Safety
 
-Ce projet peut etre drole, mais il doit rester propre et durable pour TikTok, YouTube Shorts et Instagram.
+Ce projet peut etre drole, frontal et grossier, mais il doit rester propre et durable pour TikTok, YouTube Shorts et Instagram.
 
 ## Ligne rouge
 
 Eviter :
 
-- insultes sur le corps ;
-- humiliation d'une personne en raison de son poids ;
+- insultes sur le corps humain ;
+- humiliation d'une personne humaine en raison de son poids ;
 - blagues qui disent qu'une personne vaut moins parce qu'elle est grosse ;
 - conseils medicaux dangereux ;
 - promesses de perte de poids rapides ou garanties ;
 - imitation directe d'un createur existant.
+- visages humains realistes pour les candidats.
 
 ## Ligne creative recommandee
 
@@ -26,10 +27,11 @@ Autorise et utile :
 - conflits autour des regles ;
 - personnages fiers, jaloux, strateges, dramatiques ;
 - satire de la production, du coach, des epreuves et des objets alimentaires.
+- insultes comiques entre fruits-personnages, tant que cela ne vise pas une categorie humaine reelle.
 
 ## Mode pousse mais safe
 
-Le projet doit sonner plus sale que poli. Les personnages peuvent se chauffer, s'accuser, se couper la parole et parler comme dans un sketch TikTok.
+Le projet doit sonner plus sale que poli. Les fruits-personnages peuvent se chauffer, s'accuser, se couper la parole et parler comme dans un sketch TikTok.
 
 Autorise :
 
@@ -45,12 +47,13 @@ Interdit :
 - transformer le poids ou le corps en insulte ;
 - comparer un personnage a un animal ou un monstre ;
 - dire qu'un candidat est inferieur ou degoutant a cause de son physique.
+- faire porter la blague sur des personnes humaines reelles ou identifiables.
 
-La punchline doit frapper **le mensonge, la tentation ou l'objet**, pas la personne.
+La punchline doit frapper **le mensonge, la tentation, l'objet, la production ou le fruit-personnage**, pas les corps humains.
 
 ## Formule gagnante
 
-Ne pas rire "des corps". Rire de :
+Ne pas rire "des corps humains". Rire de :
 
 - la tentation ;
 - la mauvaise foi ;

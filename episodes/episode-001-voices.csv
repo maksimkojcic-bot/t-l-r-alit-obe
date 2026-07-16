@@ -1,0 +1,7 @@
+scene_id,time,speaker,character_name,voice_env,text,output_file
+s01_pov,0-3,host,Ananas Prime,VOICE_HOST,POV : la production pose un donut a cote de ton lit comme une menace.,voices/episode-001-s01_pov-host.mp3
+s02_situation,3-10,candidate_2,Bananito,VOICE_CANDIDATE_2,"Frere je l'ai pas mange, je l'ai interroge avec ma bouche. Nuance.",voices/episode-001-s02_situation-candidate_2.mp3
+s03_excuse,10-24,candidate_2,Bananito,VOICE_CANDIDATE_2,"Le donut me regardait mal. A un moment faut se defendre, merde.",voices/episode-001-s03_excuse-candidate_2.mp3
+s04_authority,24-39,coach,Coach Broco,VOICE_COACH,Pose ce donut lentement. On negocie pas avec un cercle glace qui manipule les faibles.,voices/episode-001-s04_authority-coach.mp3
+s05_group_reaction,39-51,candidate_3,Kiwix,VOICE_CANDIDATE_3,"Moi je dis le donut il a provoque. Il etait trop brillant, cette saloperie savait ce qu'elle faisait.",voices/episode-001-s05_group_reaction-candidate_3.mp3
+s06_cliffhanger,51-60,host,Ananas Prime,VOICE_HOST,La camera de nuit montre une main qui revient chercher les vermicelles.,voices/episode-001-s06_cliffhanger-host.mp3

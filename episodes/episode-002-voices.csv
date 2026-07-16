@@ -1,0 +1,7 @@
+scene_id,time,speaker,character_name,voice_env,text,output_file
+s01_pov,0-3,host,Ananas Prime,VOICE_HOST,POV : la balance s'est levee ce matin pour insulter l'ambiance.,voices/episode-002-s01_pov-host.mp3
+s02_situation,3-10,candidate_2,Bananito,VOICE_CANDIDATE_2,"Chef, elle a bugue cette merde. J'ai pose un pied, elle a appele les secours.",voices/episode-002-s02_situation-candidate_2.mp3
+s03_excuse,10-24,candidate_2,Bananito,VOICE_CANDIDATE_2,Deja hier j'ai pas mange. J'ai juste mis le donut en garde a vue dans ma bouche.,voices/episode-002-s03_excuse-candidate_2.mp3
+s04_authority,24-39,coach,Coach Broco,VOICE_COACH,"Arrete tes conneries. La balance t'agresse pas, elle lit juste le dossier.",voices/episode-002-s04_authority-coach.mp3
+s05_group_reaction,39-51,candidate_3,Kiwix,VOICE_CANDIDATE_3,"Une balance qui parle comme ca, faut la sortir de la villa avant qu'elle prenne la confiance.",voices/episode-002-s05_group_reaction-candidate_3.mp3
+s06_cliffhanger,51-60,host,Ananas Prime,VOICE_HOST,"Mais quand le coach est monte dessus, elle a affiche : surcharge d'excuses detectee.",voices/episode-002-s06_cliffhanger-host.mp3

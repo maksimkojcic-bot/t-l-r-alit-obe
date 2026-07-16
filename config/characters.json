@@ -1,51 +1,51 @@
 {
   "host": {
-    "name": "L'Animateur",
+    "name": "Ananas Prime",
     "role": "Presentateur officiel",
     "voice_env": "VOICE_HOST",
-    "personality": "glamour, mysterieux, tres dramatique",
-    "prompt": "Original 3D animated reality show host, elegant suit, luxury villa, dramatic lighting, microphone, expressive face, vertical TikTok frame, no copyrighted characters"
+    "personality": "glamour, mysterieux, tres dramatique, annonce chaque epreuve comme une finale mondiale",
+    "prompt": "Original 3D animated reality show host with a pineapple head, expressive pineapple face, elegant gold suit, luxury fruit villa, dramatic lighting, microphone, vertical TikTok frame, no human face, no copyrighted characters"
   },
   "coach": {
-    "name": "Le Coach",
+    "name": "Coach Broco",
     "role": "Coach bienveillant mais intense",
     "voice_env": "VOICE_COACH",
-    "personality": "motivant, trop serieux, parle comme avant une bataille",
-    "prompt": "Original 3D animated fitness coach, warm but intense expression, colorful villa training area, cinematic lighting, respectful body diversity, vertical TikTok frame"
+    "personality": "motivant, trop serieux, parle comme avant une bataille, traite les machines comme des adversaires",
+    "prompt": "Original 3D animated fitness coach with a broccoli head, expressive broccoli face, green tracksuit, whistle, colorful villa training area, cinematic lighting, vertical TikTok frame, no human face, no copyrighted characters"
   },
   "candidate_1": {
-    "name": "Diva",
+    "name": "Peachea",
     "role": "Candidate principale 1",
     "voice_env": "VOICE_CANDIDATE_1",
-    "personality": "star de la villa, adore la camera, transforme tout en defile",
-    "prompt": "Original 3D animated charismatic reality show contestant, confident pose, colorful outfit, expressive rounded face, luxury villa background, respectful body diversity"
+    "personality": "belle de la villa, star de camera, transforme chaque epreuve en defile, pique quand on touche a son image",
+    "prompt": "Original 3D animated charismatic reality show contestant with a peach head, expressive peach face, glossy peach skin, confident pose, stylish colorful outfit, luxury villa background, vertical TikTok frame, no human face"
   },
   "candidate_2": {
-    "name": "Le Roi des excuses",
+    "name": "Bananito",
     "role": "Candidat principal 2",
     "voice_env": "VOICE_CANDIDATE_2",
-    "personality": "mauvaise foi, invente des strategies absurdes, tres drole en confessionnal",
-    "prompt": "Original 3D animated reality show contestant, mischievous expression, casual outfit, holding a suspicious snack, villa confessional room, respectful body diversity"
+    "personality": "mauvaise foi absolue, invente des strategies absurdes, charmeur, tres drole en confessionnal",
+    "prompt": "Original 3D animated reality show contestant with a banana head, expressive banana face, mischievous smile, casual villa outfit, holding a suspicious snack, confessional room, vertical TikTok frame, no human face"
   },
   "candidate_3": {
-    "name": "La Competitrice",
+    "name": "Kiwix",
     "role": "Candidate principale 3",
     "voice_env": "VOICE_CANDIDATE_3",
-    "personality": "observe tout, veut gagner, soupconne les autres",
-    "prompt": "Original 3D animated determined reality show contestant, sharp confident look, villa pool background, cinematic lighting, respectful body diversity"
+    "personality": "observe tout, veut gagner, soupconne les autres, parle vite quand elle grille un mensonge",
+    "prompt": "Original 3D animated determined reality show contestant with a kiwi head, expressive kiwi face, sharp confident look, sporty outfit, villa pool background, cinematic lighting, vertical TikTok frame, no human face"
   },
   "candidate_4": {
-    "name": "Le Dramatique",
+    "name": "Mangolo",
     "role": "Candidat principal 4",
     "voice_env": "VOICE_CANDIDATE_4",
-    "personality": "theatral, exagere tout, excellent en confessionnal",
-    "prompt": "Original 3D animated dramatic reality show contestant, expressive hands, shocked face, orange-red confessional room, respectful body diversity"
+    "personality": "theatral, exagere tout, panique pour rien, excellent en confessionnal",
+    "prompt": "Original 3D animated dramatic reality show contestant with a mango head, expressive mango face, shocked eyes, orange-red confessional room, expressive hands, vertical TikTok frame, no human face"
   },
   "candidate_5": {
-    "name": "Le Chef",
+    "name": "Citronel",
     "role": "Candidat principal 5",
     "voice_env": "VOICE_CANDIDATE_5",
-    "personality": "parle fort, chambre tout le monde, se croit au-dessus du jeu, finit souvent piege par sa propre confiance",
-    "prompt": "Original 3D animated loud reality show contestant, expressive face, confident posture, colorful tracksuit, villa kitchen or gym background, respectful body diversity"
+    "personality": "parle fort, chambre tout le monde, acide, se croit au-dessus du jeu, finit souvent piege par sa propre confiance",
+    "prompt": "Original 3D animated loud reality show contestant with a lemon head, expressive lemon face, sarcastic grin, colorful tracksuit, villa kitchen or gym background, vertical TikTok frame, no human face"
   }
 }

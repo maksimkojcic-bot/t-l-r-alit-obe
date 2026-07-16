@@ -2,11 +2,11 @@
 
 ## Logline
 
-Dans une villa de telerealite, des candidats attachants et tres excessifs tentent de passer sous la barre des 70 kg pour gagner 100 000 EUR, pendant que la production leur met sous le nez des tentations absurdes.
+Dans une villa de telerealite, des fruits anthropomorphes attachants et tres excessifs tentent de passer sous la barre symbolique des 70 kg pour gagner 100 000 EUR, pendant que la production leur met sous le nez des tentations absurdes.
 
 ## Promesse comique
 
-Le rire vient de la mise en scene, pas de la moquerie physique :
+Le rire vient de la mise en scene, pas de la moquerie du corps humain :
 
 - donuts livres comme une urgence nationale ;
 - atelier sushi qui tourne au proces ;
@@ -19,7 +19,9 @@ Le rire vient de la mise en scene, pas de la moquerie physique :
 
 - Le prix final est toujours **100 000 EUR**.
 - L'objectif narratif est **passer sous les 70 kg**.
+- Les candidats sont des fruits anthropomorphes avec des visages de fruits, jamais des visages humains.
 - Les candidats ont de la personnalite, des rivalites et des faiblesses, mais gardent leur dignite.
+- Les blagues peuvent etre tres salees, mais elles ciblent les objets, la mauvaise foi, la production et les personnages-fruits.
 - Chaque episode contient une tentation, une punchline, une micro-epreuve et un cliffhanger.
 - Les sous-titres doivent suffire a comprendre sans le son.
 
@@ -27,44 +29,48 @@ Le rire vient de la mise en scene, pas de la moquerie physique :
 
 Ne pas utiliser "Pixar" dans les prompts finaux. Utiliser plutot :
 
-> Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, warm skin tones, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters.
+> Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, cinematic lighting, colorful reality TV villa, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style.
 
 ## Personnages de base
 
-### L'animateur
+### Ananas Prime - l'animateur
 
-Glamour, tres serieux, annonce les epreuves comme si le destin du monde etait en jeu.
+Ananas en costume dore, glamour, tres serieux, annonce les epreuves comme si le destin du monde etait en jeu.
 
 Punchlines :
 
 - "Un seul repartira avec les 100 000 EUR."
-- "Aujourd'hui, la tentation a un glaçage."
+- "Aujourd'hui, la tentation a un glacage."
 - "La balance ne ment pas, mais la villa oui."
 
-### Le coach
+### Coach Broco
 
-Coach bienveillant mais intense. Il parle comme un general avant une bataille.
+Brocoli en survetement, coach bienveillant mais intense. Il parle comme un general avant une bataille.
 
 Punchlines :
 
 - "On ne fuit pas un donut. On le regarde dans les yeux."
 - "Respirez. Meme le sushi attendra."
 
-### Candidate 1 - Diva de la villa
+### Peachea - diva de la villa
 
-Tres charismatique, adore les cameras, transforme chaque epreuve en defile.
+Peche brillante, tres charismatique, adore les cameras, transforme chaque epreuve en defile.
 
-### Candidat 2 - Roi des excuses
+### Bananito - roi des excuses
 
-Il a toujours une explication : "c'etait pas une fringale, c'etait une strategie."
+Banane charmeuse et de mauvaise foi. Il a toujours une explication : "c'etait pas une fringale, c'etait une strategie."
 
-### Candidate 3 - Competitrice
+### Kiwix - competitrice
 
-Elle veut gagner, observe tout, soupconne tout le monde.
+Kiwi nerveuse et strategique. Elle veut gagner, observe tout, soupconne tout le monde.
 
-### Candidat 4 - Dramatique
+### Mangolo - dramatique
 
-Chaque tentation est une tragedie. Excellent en confessionnal.
+Mangue theatrale. Chaque tentation est une tragedie. Excellent en confessionnal.
+
+### Citronel - chambreur acide
+
+Citron en survetement, parle fort, chambre tout le monde, finit souvent grille par sa propre confiance.
 
 ## Structure d'episode 45-60s
 
@@ -83,7 +89,7 @@ Hook :
 "Ils pensaient commencer par un smoothie. La production a choisi la violence."
 
 Scene :
-Les candidats ouvrent les yeux. Sur chaque table de nuit : un donut brillant avec une petite carte.
+Les fruits-candidats ouvrent les yeux. Sur chaque table de nuit : un donut brillant avec une petite carte.
 
 Animateur :
 "Bonjour la villa. Celui qui mange son donut perd son immunite."

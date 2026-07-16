@@ -2,14 +2,14 @@
 
 ## Objectif
 
-Creer des videos d'environ 60 secondes, compatibles TikTok / Shorts, avec humour POV agressif, grossier, tres oral, mais monétisation-safe.
+Creer des videos d'environ 60 secondes, compatibles TikTok / Shorts, avec humour POV agressif, grossier, tres oral, mais monetisation-safe.
 
 ## Structure exacte
 
 | Temps | Fonction | Exemple |
 | --- | --- | --- |
 | 0-3s | Texte POV | "POV : la balance a decide de te manquer de respect" |
-| 3-8s | Situation | Le candidat monte sur la balance. Silence. |
+| 3-8s | Situation | Le fruit-candidat monte sur la balance. Silence. |
 | 8-18s | Premiere reaction | "Chef, elle a bugue la machine." |
 | 18-32s | Mauvaise foi agressive | Il accuse le carrelage, le vent, le donut de la veille. |
 | 32-45s | Autorite absurde | Le coach arrive comme un policier scientifique et l'allume verbalement. |
@@ -21,9 +21,10 @@ Creer des videos d'environ 60 secondes, compatibles TikTok / Shorts, avec humour
 - 1 idee par video.
 - 1 phrase de contexte max.
 - Pas de blague longue.
-- Faire parler les personnages comme des humains, pas comme une pub.
+- Faire parler les fruits-personnages comme des humains, pas comme une pub.
 - Ajouter de la friction : un personnage ment, un autre le grille.
 - Punchline forte mais cible safe : excuse, objet, production, regle.
+- Visuel obligatoire : visages de fruits, pas de visages humains.
 - Mettre la punchline la plus forte entre 45 et 55 secondes.
 - Finir sur un mystere ou une reaction muette.
 

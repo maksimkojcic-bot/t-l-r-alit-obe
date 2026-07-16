@@ -121,7 +121,7 @@ def build_episode(episode_number: int, theme_name: str, seed: int | None = None)
         "format": series["format"],
         "prize": series["prize"],
         "aigc": True,
-        "style": "POV sketch, aggressive French oral humor, frequent casual profanity, no body-shaming",
+        "style": "POV sketch, aggressive French oral humor, frequent casual profanity, anthropomorphic fruit contestants, no human faces, no body-shaming of real humans",
         "scenes": [
             scene(
                 "s01_pov",
@@ -144,7 +144,7 @@ def build_episode(episode_number: int, theme_name: str, seed: int | None = None)
                 SCENE_TIMES[2],
                 theme["speaker"],
                 theme["line_2"],
-                f"{base_style} Confessional interview room, exaggerated serious explanation, funny guilty expression.",
+                f"{base_style} Fruit-villa confessional interview room, anthropomorphic fruit contestant, exaggerated serious explanation, funny guilty fruit expression, no human face.",
                 "excuse",
             ),
             scene(
@@ -160,7 +160,7 @@ def build_episode(episode_number: int, theme_name: str, seed: int | None = None)
                 SCENE_TIMES[4],
                 group_speaker,
                 theme["group"],
-                f"{base_style} Five contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing.",
+                f"{base_style} Five anthropomorphic fruit contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing, no human faces.",
                 "group_reaction",
                 theme.get("group_subtitle"),
             ),
@@ -169,7 +169,7 @@ def build_episode(episode_number: int, theme_name: str, seed: int | None = None)
                 SCENE_TIMES[5],
                 "host",
                 theme["cliff"],
-                f"{base_style} Suspenseful close-up, absurd clue revealed, everyone freezes, cliffhanger ending.",
+                f"{base_style} Suspenseful close-up, absurd clue revealed, all fruit contestants freeze, cliffhanger ending, no human faces.",
                 "cliffhanger",
             ),
         ],

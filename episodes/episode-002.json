@@ -2,59 +2,82 @@
   "series": "Objectif 70",
   "episode_number": 2,
   "title": "La Balance Chelou",
+  "theme": "balance",
   "duration_seconds_target": 60,
+  "format": {
+    "platforms": [
+      "TikTok",
+      "YouTube Shorts",
+      "Instagram Reels"
+    ],
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds_target": 60,
+    "language": "fr-FR"
+  },
   "prize": "100 000 EUR",
   "aigc": true,
-  "style": "POV sketch, French oral humor, moderate profanity, no body-shaming",
+  "style": "POV sketch, aggressive French oral humor, frequent casual profanity, anthropomorphic fruit contestants, no human faces, no body-shaming of real humans",
   "scenes": [
     {
       "id": "s01_pov",
       "time": "0-3",
+      "type": "pov_hook",
       "speaker": "host",
-      "text": "POV : la balance a decide de manquer de respect a toute la villa.",
-      "subtitle": "POV : la balance a decide\nde manquer de respect.",
-      "visual_prompt": "Original 3D animated reality TV villa bathroom, digital scale glowing ominously, cinematic comedy lighting, vertical TikTok"
+      "text": "POV : la balance s'est levee ce matin pour insulter l'ambiance.",
+      "subtitle": "POV : la balance s'est\nlevee ce matin pour insulter l'ambiance.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Opening POV title card, digital scale glowing in a luxury reality TV villa bathroom, fast TikTok hook."
     },
     {
-      "id": "s02_scale",
+      "id": "s02_situation",
       "time": "3-10",
+      "type": "situation",
       "speaker": "candidate_2",
-      "text": "Chef, elle a bugue. J'ai pose un pied, elle a fait une depression.",
-      "subtitle": "Chef, elle a bugue.\nElle a fait une depression.",
-      "visual_prompt": "Contestant staring at a digital scale with shocked expression, close-up, funny reality show framing, respectful body diversity"
+      "text": "Chef, elle a bugue cette merde. J'ai pose un pied, elle a appele les secours.",
+      "subtitle": "Chef, elle a bugue cette m*rde. J'ai\npose un pied, elle a appele les secours.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Original 3D animated reality show contestant with a banana head, expressive banana face, mischievous smile, casual villa outfit, holding a suspicious snack, confessional room, vertical TikTok frame, no human face. Scene: digital scale glowing in a luxury reality TV villa bathroom. Close-up reaction."
     },
     {
       "id": "s03_excuse",
       "time": "10-24",
+      "type": "excuse",
       "speaker": "candidate_2",
-      "text": "Deja hier j'ai pas mange. J'ai juste goute pour verifier si le donut etait dangereux.",
-      "subtitle": "J'ai juste goute\nsi le donut etait dangereux.",
-      "visual_prompt": "Confessional room, contestant explaining very seriously while holding a tiny donut crumb, 3D animated comedy"
+      "text": "Deja hier j'ai pas mange. J'ai juste mis le donut en garde a vue dans ma bouche.",
+      "subtitle": "Deja hier j'ai pas mange. J'ai juste\nle donut en garde a vue dans ma bouche.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Fruit-villa confessional interview room, anthropomorphic fruit contestant, exaggerated serious explanation, funny guilty fruit expression, no human face."
     },
     {
-      "id": "s04_coach",
+      "id": "s04_authority",
       "time": "24-39",
+      "type": "authority",
       "speaker": "coach",
-      "text": "Arrete tes conneries. La balance ment pas, elle fait juste son travail.",
-      "subtitle": "Arrete tes conneries.\nLa balance fait son travail.",
-      "visual_prompt": "Coach entering like a detective, pointing at scale, villa bathroom, dramatic light, original 3D animated style"
+      "text": "Arrete tes conneries. La balance t'agresse pas, elle lit juste le dossier.",
+      "subtitle": "Arrete tes conneries. La balance t'agresse\npas, elle lit juste le dossier.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Original 3D animated fitness coach with a broccoli head, expressive broccoli face, green tracksuit, whistle, colorful villa training area, cinematic lighting, vertical TikTok frame, no human face, no copyrighted characters. Coach entering like a detective, absurd authority."
     },
     {
-      "id": "s05_group",
+      "id": "s05_group_reaction",
       "time": "39-51",
-      "speaker": "candidate_5",
-      "text": "Moi je dis on la vire. Une balance qui parle comme ca, c'est pas une machine, c'est une ennemie.",
-      "subtitle": "Une balance qui parle comme ca,\nc'est une ennemie.",
-      "visual_prompt": "Five contestants around a digital scale like a tribunal, serious faces, absurd reality TV drama, vertical TikTok"
+      "type": "group_reaction",
+      "speaker": "candidate_3",
+      "text": "Une balance qui parle comme ca, faut la sortir de la villa avant qu'elle prenne la confiance.",
+      "subtitle": "Une balance qui parle comme ca, faut\nsortir de la villa avant qu'elle prenne la confiance.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Five anthropomorphic fruit contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing, no human faces."
     },
     {
       "id": "s06_cliffhanger",
       "time": "51-60",
+      "type": "cliffhanger",
       "speaker": "host",
-      "text": "Mais quand le coach est monte dessus, la balance a affiche : surcharge d'excuses detectee.",
-      "subtitle": "Puis le coach monte...\nSurcharge d'excuses detectee.",
-      "visual_prompt": "Digital scale close-up displaying an absurd message about excuses while everyone freezes, comedic cliffhanger, 3D animated"
+      "text": "Mais quand le coach est monte dessus, elle a affiche : surcharge d'excuses detectee.",
+      "subtitle": "Mais quand le coach est monte dessus,\nelle a affiche : surcharge d'excuses detectee.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Suspenseful close-up, absurd clue revealed, all fruit contestants freeze, cliffhanger ending, no human faces."
     }
   ],
-  "caption": "La balance a choisi la violence. #Objectif70 #Humour #Telerealite #IA #TikTokFrance"
+  "caption": "La Balance Chelou dans Objectif 70. Qui va craquer pour les 100 000 EUR ? #Objectif70 #Humour #Telerealite #IA #TikTokFrance",
+  "publishing_notes": {
+    "manual_review_required": true,
+    "mark_as_ai_generated": true,
+    "do_not_copy_reference_creator": true
+  }
 }

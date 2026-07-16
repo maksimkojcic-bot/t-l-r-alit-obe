@@ -8,7 +8,7 @@ Use these prompts for Gemini image generation. Keep character designs consistent
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Opening POV title card, tiny villa gym, treadmill, dumbbells, dramatic reality TV camera, fast TikTok hook.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Opening POV title card, tiny villa gym, treadmill, dumbbells, dramatic reality TV camera, fast TikTok hook.
 
 Subtitle:
 
@@ -19,7 +19,7 @@ le tapis a declare la guerre.
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Original 3D animated dramatic reality show contestant, expressive hands, shocked face, orange-red confessional room, respectful body diversity. Scene: tiny villa gym, treadmill, dumbbells, dramatic reality TV camera. Close-up reaction.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Original 3D animated dramatic reality show contestant with a mango head, expressive mango face, shocked eyes, orange-red confessional room, expressive hands, vertical TikTok frame, no human face. Scene: tiny villa gym, treadmill, dumbbells, dramatic reality TV camera. Close-up reaction.
 
 Subtitle:
 
@@ -30,7 +30,7 @@ cette machine a une attitude de m*rde.
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Confessional interview room, exaggerated serious explanation, funny guilty expression.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Fruit-villa confessional interview room, anthropomorphic fruit contestant, exaggerated serious explanation, funny guilty fruit expression, no human face.
 
 Subtitle:
 
@@ -41,7 +41,7 @@ avec mes genoux. Ils sont syndiques.
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Original 3D animated fitness coach, warm but intense expression, colorful villa training area, cinematic lighting, respectful body diversity, vertical TikTok frame. Coach entering like a detective, absurd authority.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Original 3D animated fitness coach with a broccoli head, expressive broccoli face, green tracksuit, whistle, colorful villa training area, cinematic lighting, vertical TikTok frame, no human face, no copyrighted characters. Coach entering like a detective, absurd authority.
 
 Subtitle:
 
@@ -52,7 +52,7 @@ mais il te respecte pas non plus.
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Five contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Five anthropomorphic fruit contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing, no human faces.
 
 Subtitle:
 
@@ -63,7 +63,7 @@ Chef, c'etait une bande-annonce.
 
 Prompt:
 
-Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Suspenseful close-up, absurd clue revealed, everyone freezes, cliffhanger ending.
+Original high-quality 3D animated family movie style, anthropomorphic fruit-headed contestants with expressive fruit faces, no human faces, colorful reality TV villa, cinematic lighting, soft rounded shapes, glossy render, vertical TikTok composition, comedy reality show energy, no copyrighted characters, no existing studio style. Suspenseful close-up, absurd clue revealed, all fruit contestants freeze, cliffhanger ending, no human faces.
 
 Subtitle:
 
