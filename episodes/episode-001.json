@@ -1,0 +1,51 @@
+{
+  "series": "Objectif 70",
+  "episode_number": 1,
+  "title": "Le Donut du Reveil",
+  "duration_seconds_target": 55,
+  "prize": "100 000 EUR",
+  "aigc": true,
+  "scenes": [
+    {
+      "id": "s01_hook",
+      "time": "0-3",
+      "speaker": "host",
+      "text": "Ils pensaient commencer par un smoothie. La production a choisi la violence.",
+      "subtitle": "Ils voulaient un smoothie.\nLa production a choisi la violence.",
+      "visual_prompt": "Dramatic 3D animated reality show villa at sunrise, contestants waking up, cinematic lighting, vertical TikTok frame"
+    },
+    {
+      "id": "s02_tentation",
+      "time": "3-12",
+      "speaker": "host",
+      "text": "Bonjour la villa. Celui qui mange son donut perd son immunite.",
+      "subtitle": "Celui qui mange son donut\nperd son immunite.",
+      "visual_prompt": "A shiny donut on each bedside table with a small card, luxury reality show villa bedroom, original 3D animated style, respectful body diversity"
+    },
+    {
+      "id": "s03_excuse",
+      "time": "12-24",
+      "speaker": "candidate_2",
+      "text": "Techniquement, si je le sens seulement, c'est du cardio nasal.",
+      "subtitle": "Si je le sens seulement,\nc'est du cardio nasal.",
+      "visual_prompt": "Reality show contestant in confessional holding a donut carefully, mischievous expression, original 3D animated style"
+    },
+    {
+      "id": "s04_coach",
+      "time": "24-36",
+      "speaker": "coach",
+      "text": "Pose ce donut. Lentement. Comme une bombe.",
+      "subtitle": "Pose ce donut.\nComme une bombe.",
+      "visual_prompt": "Intense coach pointing dramatically at a donut on a table, villa kitchen, cinematic comedy lighting, original 3D animation"
+    },
+    {
+      "id": "s05_cliffhanger",
+      "time": "36-55",
+      "speaker": "host",
+      "text": "Mais quelqu'un avait deja croque avant le reveil.",
+      "subtitle": "Mais quelqu'un avait deja croque\navant le reveil.",
+      "visual_prompt": "Suspenseful close-up of a donut with one bite missing, shocked contestants in background, dramatic reality TV lighting"
+    }
+  ],
+  "caption": "Objectif 70 commence fort. Qui a croque le donut ? #Objectif70 #Telerealite #Humour #IA #Shorts"
+}

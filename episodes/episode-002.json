@@ -1,0 +1,60 @@
+{
+  "series": "Objectif 70",
+  "episode_number": 2,
+  "title": "La Balance Chelou",
+  "duration_seconds_target": 60,
+  "prize": "100 000 EUR",
+  "aigc": true,
+  "style": "POV sketch, French oral humor, moderate profanity, no body-shaming",
+  "scenes": [
+    {
+      "id": "s01_pov",
+      "time": "0-3",
+      "speaker": "host",
+      "text": "POV : la balance a decide de manquer de respect a toute la villa.",
+      "subtitle": "POV : la balance a decide\nde manquer de respect.",
+      "visual_prompt": "Original 3D animated reality TV villa bathroom, digital scale glowing ominously, cinematic comedy lighting, vertical TikTok"
+    },
+    {
+      "id": "s02_scale",
+      "time": "3-10",
+      "speaker": "candidate_2",
+      "text": "Chef, elle a bugue. J'ai pose un pied, elle a fait une depression.",
+      "subtitle": "Chef, elle a bugue.\nElle a fait une depression.",
+      "visual_prompt": "Contestant staring at a digital scale with shocked expression, close-up, funny reality show framing, respectful body diversity"
+    },
+    {
+      "id": "s03_excuse",
+      "time": "10-24",
+      "speaker": "candidate_2",
+      "text": "Deja hier j'ai pas mange. J'ai juste goute pour verifier si le donut etait dangereux.",
+      "subtitle": "J'ai juste goute\nsi le donut etait dangereux.",
+      "visual_prompt": "Confessional room, contestant explaining very seriously while holding a tiny donut crumb, 3D animated comedy"
+    },
+    {
+      "id": "s04_coach",
+      "time": "24-39",
+      "speaker": "coach",
+      "text": "Arrete tes conneries. La balance ment pas, elle fait juste son travail.",
+      "subtitle": "Arrete tes conneries.\nLa balance fait son travail.",
+      "visual_prompt": "Coach entering like a detective, pointing at scale, villa bathroom, dramatic light, original 3D animated style"
+    },
+    {
+      "id": "s05_group",
+      "time": "39-51",
+      "speaker": "candidate_5",
+      "text": "Moi je dis on la vire. Une balance qui parle comme ca, c'est pas une machine, c'est une ennemie.",
+      "subtitle": "Une balance qui parle comme ca,\nc'est une ennemie.",
+      "visual_prompt": "Five contestants around a digital scale like a tribunal, serious faces, absurd reality TV drama, vertical TikTok"
+    },
+    {
+      "id": "s06_cliffhanger",
+      "time": "51-60",
+      "speaker": "host",
+      "text": "Mais quand le coach est monte dessus, la balance a affiche : surcharge d'excuses detectee.",
+      "subtitle": "Puis le coach monte...\nSurcharge d'excuses detectee.",
+      "visual_prompt": "Digital scale close-up displaying an absurd message about excuses while everyone freezes, comedic cliffhanger, 3D animated"
+    }
+  ],
+  "caption": "La balance a choisi la violence. #Objectif70 #Humour #Telerealite #IA #TikTokFrance"
+}

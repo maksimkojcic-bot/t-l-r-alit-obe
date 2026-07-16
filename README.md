@@ -81,6 +81,18 @@ Verifier ElevenLabs :
 /Users/loupwallstreet/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/check_elevenlabs.py
 ```
 
+Generer les prompts images sans consommer de credits :
+
+```bash
+/Users/loupwallstreet/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/generate_scene_images.py episodes/episode-004.json --limit 2
+```
+
+Generer une image reelle avec Gemini :
+
+```bash
+/Users/loupwallstreet/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/generate_scene_images.py episodes/episode-004.json --limit 1 --run
+```
+
 Generer les voix apres validation :
 
 ```bash

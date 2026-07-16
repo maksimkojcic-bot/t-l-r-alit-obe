@@ -1,0 +1,83 @@
+{
+  "series": "Objectif 70",
+  "episode_number": 4,
+  "title": "La Salle de Sport",
+  "theme": "salle_sport",
+  "duration_seconds_target": 60,
+  "format": {
+    "platforms": [
+      "TikTok",
+      "YouTube Shorts",
+      "Instagram Reels"
+    ],
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds_target": 60,
+    "language": "fr-FR"
+  },
+  "prize": "100 000 EUR",
+  "aigc": true,
+  "style": "POV sketch, aggressive French oral humor, frequent casual profanity, no body-shaming",
+  "scenes": [
+    {
+      "id": "s01_pov",
+      "time": "0-3",
+      "type": "pov_hook",
+      "speaker": "host",
+      "text": "POV : premiere seance de sport, le tapis a declare la guerre.",
+      "subtitle": "POV : premiere seance de sport,\nle tapis a declare la guerre.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Opening POV title card, tiny villa gym, treadmill, dumbbells, dramatic reality TV camera, fast TikTok hook."
+    },
+    {
+      "id": "s02_situation",
+      "time": "3-10",
+      "type": "situation",
+      "speaker": "candidate_4",
+      "text": "Putain le tapis avance tout seul, deja cette machine a une attitude de merde.",
+      "subtitle": "P*tain le tapis avance tout seul, deja\ncette machine a une attitude de m*rde.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Original 3D animated dramatic reality show contestant, expressive hands, shocked face, orange-red confessional room, respectful body diversity. Scene: tiny villa gym, treadmill, dumbbells, dramatic reality TV camera. Close-up reaction."
+    },
+    {
+      "id": "s03_excuse",
+      "time": "10-24",
+      "type": "excuse",
+      "speaker": "candidate_4",
+      "text": "Moi je cours pas, je negocie avec mes genoux. Ils sont syndiques.",
+      "subtitle": "Moi je cours pas, je negocie\navec mes genoux. Ils sont syndiques.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Confessional interview room, exaggerated serious explanation, funny guilty expression."
+    },
+    {
+      "id": "s04_authority",
+      "time": "24-39",
+      "type": "authority",
+      "speaker": "coach",
+      "text": "Respire. Le tapis t'en veut pas personnellement, mais il te respecte pas non plus.",
+      "subtitle": "Respire. Le tapis t'en veut pas personnellement,\nmais il te respecte pas non plus.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Original 3D animated fitness coach, warm but intense expression, colorful villa training area, cinematic lighting, respectful body diversity, vertical TikTok frame. Coach entering like a detective, absurd authority."
+    },
+    {
+      "id": "s05_group_reaction",
+      "time": "39-51",
+      "type": "group_reaction",
+      "speaker": "candidate_5",
+      "text": "Il a mis pause au bout de huit secondes et il a appele ca une serie. Chef, c'etait une bande-annonce.",
+      "subtitle": "Pause au bout de huit secondes.\nChef, c'etait une bande-annonce.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Five contestants in a villa group scene, dramatic reality TV reaction, comedic tribunal framing."
+    },
+    {
+      "id": "s06_cliffhanger",
+      "time": "51-60",
+      "type": "cliffhanger",
+      "speaker": "host",
+      "text": "Le coach annonce que l'echauffement n'avait meme pas commence.",
+      "subtitle": "Le coach annonce que\nl'echauffement n'avait meme pas commence.",
+      "visual_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters. Suspenseful close-up, absurd clue revealed, everyone freezes, cliffhanger ending."
+    }
+  ],
+  "caption": "La Salle de Sport dans Objectif 70. Qui va craquer pour les 100 000 EUR ? #Objectif70 #Humour #Telerealite #IA #TikTokFrance",
+  "publishing_notes": {
+    "manual_review_required": true,
+    "mark_as_ai_generated": true,
+    "do_not_copy_reference_creator": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "host": {
+    "name": "L'Animateur",
+    "role": "Presentateur officiel",
+    "voice_env": "VOICE_HOST",
+    "personality": "glamour, mysterieux, tres dramatique",
+    "prompt": "Original 3D animated reality show host, elegant suit, luxury villa, dramatic lighting, microphone, expressive face, vertical TikTok frame, no copyrighted characters"
+  },
+  "coach": {
+    "name": "Le Coach",
+    "role": "Coach bienveillant mais intense",
+    "voice_env": "VOICE_COACH",
+    "personality": "motivant, trop serieux, parle comme avant une bataille",
+    "prompt": "Original 3D animated fitness coach, warm but intense expression, colorful villa training area, cinematic lighting, respectful body diversity, vertical TikTok frame"
+  },
+  "candidate_1": {
+    "name": "Diva",
+    "role": "Candidate principale 1",
+    "voice_env": "VOICE_CANDIDATE_1",
+    "personality": "star de la villa, adore la camera, transforme tout en defile",
+    "prompt": "Original 3D animated charismatic reality show contestant, confident pose, colorful outfit, expressive rounded face, luxury villa background, respectful body diversity"
+  },
+  "candidate_2": {
+    "name": "Le Roi des excuses",
+    "role": "Candidat principal 2",
+    "voice_env": "VOICE_CANDIDATE_2",
+    "personality": "mauvaise foi, invente des strategies absurdes, tres drole en confessionnal",
+    "prompt": "Original 3D animated reality show contestant, mischievous expression, casual outfit, holding a suspicious snack, villa confessional room, respectful body diversity"
+  },
+  "candidate_3": {
+    "name": "La Competitrice",
+    "role": "Candidate principale 3",
+    "voice_env": "VOICE_CANDIDATE_3",
+    "personality": "observe tout, veut gagner, soupconne les autres",
+    "prompt": "Original 3D animated determined reality show contestant, sharp confident look, villa pool background, cinematic lighting, respectful body diversity"
+  },
+  "candidate_4": {
+    "name": "Le Dramatique",
+    "role": "Candidat principal 4",
+    "voice_env": "VOICE_CANDIDATE_4",
+    "personality": "theatral, exagere tout, excellent en confessionnal",
+    "prompt": "Original 3D animated dramatic reality show contestant, expressive hands, shocked face, orange-red confessional room, respectful body diversity"
+  },
+  "candidate_5": {
+    "name": "Le Chef",
+    "role": "Candidat principal 5",
+    "voice_env": "VOICE_CANDIDATE_5",
+    "personality": "parle fort, chambre tout le monde, se croit au-dessus du jeu, finit souvent piege par sa propre confiance",
+    "prompt": "Original 3D animated loud reality show contestant, expressive face, confident posture, colorful tracksuit, villa kitchen or gym background, respectful body diversity"
+  }
+}

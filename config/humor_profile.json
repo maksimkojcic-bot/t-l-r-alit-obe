@@ -1,0 +1,63 @@
+{
+  "reference_goal": "POV sketch humor inspired by public short-form French comedy mechanics, not copied from any creator.",
+  "duration_seconds": 60,
+  "contestant_count": 5,
+  "production_voices": ["host", "coach"],
+  "language_level": "agressif_familier_monetisation_safe",
+  "allowed_register": [
+    "frere",
+    "chef",
+    "wesh",
+    "bordel",
+    "putain",
+    "merde",
+    "fait chier",
+    "arrete tes conneries",
+    "c'est mort",
+    "j'en peux plus"
+  ],
+  "style_mode": {
+    "name": "pousse_mais_safe",
+    "description": "Langage tres oral, frontal, grossier et provocateur, mais la cible comique reste la mauvaise foi, la production, les objets et les situations.",
+    "intensity": 8,
+    "targets_allowed": [
+      "excuses ridicules",
+      "production sadique",
+      "balance qui manque de respect",
+      "frigo manipulateur",
+      "donut suspect",
+      "coach trop intense",
+      "regles absurdes",
+      "ego des candidats"
+    ],
+    "targets_forbidden": [
+      "corps des candidats",
+      "poids comme insulte",
+      "dignite personnelle",
+      "categorie de personnes"
+    ]
+  },
+  "avoid": [
+    "copying exact jokes",
+    "imitating Nicolux word-for-word",
+    "body-shaming",
+    "slurs",
+    "degrading insults about weight",
+    "medical claims",
+    "dangerous weight-loss advice"
+  ],
+  "joke_engines": [
+    "mauvaise foi agressive",
+    "autorite absurde",
+    "tentation alimentaire traitee comme un crime",
+    "reaction trop serieuse a un probleme ridicule",
+    "mensonge evident",
+    "silence puis punchline sale mais non haineuse",
+    "POV ultra clair"
+  ],
+  "subtitle_policy": {
+    "audio": "can include frequent casual profanity when the joke targets the situation, not a protected trait",
+    "subtitles": "prefer softened profanity for monetization on the strongest words, e.g. p*tain, m*rde",
+    "no_targeted_body_insults": true
+  }
+}

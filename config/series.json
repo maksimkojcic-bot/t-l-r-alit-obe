@@ -1,0 +1,27 @@
+{
+  "working_title": "Objectif 70",
+  "format": {
+    "platforms": ["TikTok", "YouTube Shorts", "Instagram Reels"],
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds_target": 60,
+    "language": "fr-FR"
+  },
+  "prize": "100 000 EUR",
+  "goal": "Passer sous la barre symbolique des 70 kg",
+  "tone": [
+    "telerealite",
+    "humour POV grossier mais original",
+    "dramatisation absurde",
+    "bienveillant",
+    "rythme rapide"
+  ],
+  "visual_style_prompt": "Original high-quality 3D animated family movie style, expressive rounded characters, cinematic lighting, colorful reality TV villa, soft shapes, stylized but respectful body diversity, vertical TikTok composition, glossy render, no copyrighted characters.",
+  "safety_rules": [
+    "No body-shaming.",
+    "No insults based on weight.",
+    "Humor targets situations, temptation, rules, production drama and excuses.",
+    "No medical advice or guaranteed weight-loss claims.",
+    "Mark AI-generated content when publishing."
+  ]
+}

@@ -1,0 +1,7 @@
+scene_id,time,speaker,character_name,voice_env,text,output_file
+s01_pov,0-3,host,L'Animateur,VOICE_HOST,POV : la production pose un donut a cote de ton lit des le reveil.,voices/episode-003-s01_pov-host.mp3
+s02_situation,3-10,candidate_2,Le Roi des excuses,VOICE_CANDIDATE_2,"Frere je l'ai pas mange, je l'ai interroge avec ma bouche.",voices/episode-003-s02_situation-candidate_2.mp3
+s03_excuse,10-24,candidate_2,Le Roi des excuses,VOICE_CANDIDATE_2,"Si je le sens seulement, c'est pas une calorie, c'est une enquete.",voices/episode-003-s03_excuse-candidate_2.mp3
+s04_authority,24-39,coach,Le Coach,VOICE_COACH,Pose ce donut lentement. On negocie pas avec le glacage.,voices/episode-003-s04_authority-coach.mp3
+s05_group_reaction,39-51,candidate_4,Le Dramatique,VOICE_CANDIDATE_4,Moi je dis le donut il a provoque. Il etait trop brillant pour etre innocent.,voices/episode-003-s05_group_reaction-candidate_4.mp3
+s06_cliffhanger,51-60,host,L'Animateur,VOICE_HOST,La camera de nuit montre une main qui revient chercher les vermicelles.,voices/episode-003-s06_cliffhanger-host.mp3
