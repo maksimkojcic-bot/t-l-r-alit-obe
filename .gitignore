@@ -1,5 +1,7 @@
 .env
 node_modules/
+remotion/node_modules/
+remotion/.git/
 dist/
 build/
 .DS_Store
@@ -9,8 +11,11 @@ build/
 # Generated media
 renders/*.mp4
 renders/*.mov
+renders/*.png
 voices/*.mp3
 voices/*.wav
+remotion/public/voices/*.mp3
+remotion/public/voices/*.wav
 assets/generated/*
 !assets/generated/.gitkeep
 

@@ -41,6 +41,10 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("voice_plan_csv", type=Path)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--fallback-voice-env",
+        help="Use this .env voice id when a scene voice is missing. Useful for pipeline tests.",
+    )
     args = parser.parse_args()
 
     env = load_env()
@@ -52,9 +56,14 @@ def main() -> None:
     with args.voice_plan_csv.open("r", encoding="utf-8", newline="") as handle:
         for row in csv.DictReader(handle):
             voice_id = env.get(row["voice_env"], "")
+            fallback_voice_id = env.get(args.fallback_voice_env or "", "")
+            if not voice_id and fallback_voice_id:
+                voice_id = fallback_voice_id
             output_path = PROJECT_ROOT / row["output_file"]
             if args.dry_run:
                 state = "OK" if voice_id else f"MISSING {row['voice_env']}"
+                if fallback_voice_id and row["voice_env"] != args.fallback_voice_env:
+                    state += f" fallback={args.fallback_voice_env}"
                 print(f"{state}: {row['character_name']} -> {output_path}")
                 continue
             if not voice_id:
