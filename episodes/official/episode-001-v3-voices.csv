@@ -1,0 +1,11 @@
+scene_id,time,speaker,character_name,voice_env,text,output_file
+s01_hook,0-2.5,host,Ananas Prime,VOICE_HOST,"POV : premiere seance, Mangolo transpire deja sur le bouton start.",voices/episode-001-v3-s01_hook-host.mp3
+s02_machine,2.5-7,candidate_4,Mangolo,VOICE_CANDIDATE_4,"Putain, le tapis vient de me regarder de travers. Cette machine me juge.",voices/episode-001-v3-s02_machine-candidate_4.mp3
+s03_roast,7-11,candidate_5,Citronel,VOICE_CANDIDATE_5,"Il a couru trois secondes et il demande un avocat. Chef, c'est pas du cardio, c'est une plainte.",voices/episode-001-v3-s03_roast-candidate_5.mp3
+s04_coach,11-15,coach,Coach Broco,VOICE_COACH,"Respire. Le tapis ne te poursuit pas, c'est toi qui fuis la dignite.",voices/episode-001-v3-s04_coach-coach.mp3
+s05_peachea,15-19,candidate_1,Peachea,VOICE_CANDIDATE_1,Il a mis de la sauce sur la rampe. Meme le tapis a glisse dans sa honte.,voices/episode-001-v3-s05_peachea-candidate_1.mp3
+s06_bananito,19-23,candidate_2,Bananito,VOICE_CANDIDATE_2,"Frere, techniquement s'il transpire la frite, c'est une seance mixte.",voices/episode-001-v3-s06_bananito-candidate_2.mp3
+s07_confessionnal,23-28,candidate_4,Mangolo,VOICE_CANDIDATE_4,"Moi je cours pas, je negocie avec mon bide. Lui il vote contre moi.",voices/episode-001-v3-s07_confessionnal-candidate_4.mp3
+s08_serpilliere,28-33,coach,Coach Broco,VOICE_COACH,Stop ! Il reste encore l'echauffement et le sol demande deja une serpilliere.,voices/episode-001-v3-s08_serpilliere-coach.mp3
+s09_survet,33-38,candidate_5,Citronel,VOICE_CANDIDATE_5,"Son survetement a abandonne avant lui. Regardez la fermeture, elle fait ses valises.",voices/episode-001-v3-s09_survet-candidate_5.mp3
+s10_cliffhanger,38-43,host,Ananas Prime,VOICE_HOST,"Et la, la production annonce la deuxieme machine : les escaliers.",voices/episode-001-v3-s10_cliffhanger-host.mp3

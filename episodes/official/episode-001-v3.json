@@ -1,0 +1,115 @@
+{
+  "series": "Objectif 70",
+  "episode_number": 1,
+  "title": "Le Tapis Souille",
+  "theme": "salle_sport",
+  "duration_seconds_target": 43,
+  "format": {
+    "platforms": ["TikTok", "YouTube Shorts", "Instagram Reels"],
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "duration_seconds_target": 43,
+    "language": "fr-FR"
+  },
+  "prize": "100 000 EUR",
+  "aigc": true,
+  "style": "POV sketch, aggressive French oral humor, grotesque fictional fruit contestants, no real human targets",
+  "scenes": [
+    {
+      "id": "s01_hook",
+      "time": "0-2.5",
+      "type": "pov_hook",
+      "speaker": "host",
+      "text": "POV : premiere seance, Mangolo transpire deja sur le bouton start.",
+      "subtitle": "POV : premiere seance,\nMangolo transpire deja.",
+      "visual_prompt": "Grotesque original 3D fruit reality show gym, enormous sweaty mango contestant on treadmill, neon chaos, no human faces."
+    },
+    {
+      "id": "s02_machine",
+      "time": "2.5-7",
+      "type": "situation",
+      "speaker": "candidate_4",
+      "text": "Putain, le tapis vient de me regarder de travers. Cette machine me juge.",
+      "subtitle": "P*tain, le tapis me regarde.\nCette machine me juge.",
+      "visual_prompt": "Extreme close-up on enormous mango fruit contestant panicking on treadmill, sweaty stained tracksuit, grotesque comedy."
+    },
+    {
+      "id": "s03_roast",
+      "time": "7-11",
+      "type": "roast",
+      "speaker": "candidate_5",
+      "text": "Il a couru trois secondes et il demande un avocat. Chef, c'est pas du cardio, c'est une plainte.",
+      "subtitle": "Trois secondes et il demande un avocat.\nC'est pas du cardio, c'est une plainte.",
+      "visual_prompt": "Lemon contestant laughing aggressively at treadmill, other fruit contestants yelling, neon gym reality show."
+    },
+    {
+      "id": "s04_coach",
+      "time": "11-15",
+      "type": "authority",
+      "speaker": "coach",
+      "text": "Respire. Le tapis ne te poursuit pas, c'est toi qui fuis la dignite.",
+      "subtitle": "Respire. Le tapis te poursuit pas,\ntu fuis la dignite.",
+      "visual_prompt": "Broccoli coach screaming with whistle, sweaty mango on treadmill, chaotic gym."
+    },
+    {
+      "id": "s05_peachea",
+      "time": "15-19",
+      "type": "group_reaction",
+      "speaker": "candidate_1",
+      "text": "Il a mis de la sauce sur la rampe. Meme le tapis a glisse dans sa honte.",
+      "subtitle": "Il a mis de la sauce sur la rampe.\nLe tapis a glisse dans sa honte.",
+      "visual_prompt": "Peach diva reacting disgusted, messy treadmill sauce stains, fruit contestants shocked."
+    },
+    {
+      "id": "s06_bananito",
+      "time": "19-23",
+      "type": "excuse",
+      "speaker": "candidate_2",
+      "text": "Frere, techniquement s'il transpire la frite, c'est une seance mixte.",
+      "subtitle": "S'il transpire la frite,\nc'est une seance mixte.",
+      "visual_prompt": "Banana schemer holding dirty snack bucket, chaotic villa gym, grotesque fruit comedy."
+    },
+    {
+      "id": "s07_confessionnal",
+      "time": "23-28",
+      "type": "confessional",
+      "speaker": "candidate_4",
+      "text": "Moi je cours pas, je negocie avec mon bide. Lui il vote contre moi.",
+      "subtitle": "Je cours pas, je negocie avec mon bide.\nLui il vote contre moi.",
+      "visual_prompt": "Mango contestant confession close-up, sweaty face, stained tracksuit, guilty absurd expression."
+    },
+    {
+      "id": "s08_serpilliere",
+      "time": "28-33",
+      "type": "authority",
+      "speaker": "coach",
+      "text": "Stop ! Il reste encore l'echauffement et le sol demande deja une serpilliere.",
+      "subtitle": "Il reste l'echauffement,\net le sol demande une serpilliere.",
+      "visual_prompt": "Broccoli coach yelling stop, treadmill floor covered in sweat and snack crumbs, comic chaos."
+    },
+    {
+      "id": "s09_survet",
+      "time": "33-38",
+      "type": "roast",
+      "speaker": "candidate_5",
+      "text": "Son survetement a abandonne avant lui. Regardez la fermeture, elle fait ses valises.",
+      "subtitle": "Son survetement a abandonne.\nLa fermeture fait ses valises.",
+      "visual_prompt": "Lemon contestant pointing and laughing, mango tracksuit zipper under comic stress, no nudity."
+    },
+    {
+      "id": "s10_cliffhanger",
+      "time": "38-43",
+      "type": "cliffhanger",
+      "speaker": "host",
+      "text": "Et la, la production annonce la deuxieme machine : les escaliers.",
+      "subtitle": "La production annonce la deuxieme machine :\nles escaliers.",
+      "visual_prompt": "Pineapple host cliffhanger with microphone, fruit contestants horrified, neon reality TV gym."
+    }
+  ],
+  "caption": "Mangolo contre le tapis. La villa n'etait pas prete. #Objectif70 #Humour #Telerealite #IA #TikTokFrance",
+  "publishing_notes": {
+    "manual_review_required": true,
+    "mark_as_ai_generated": true,
+    "do_not_copy_reference_creator": true
+  }
+}

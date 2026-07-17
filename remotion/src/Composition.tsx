@@ -15,8 +15,8 @@ import {
 const FPS = 30;
 const WIDTH = 1080;
 const HEIGHT = 1920;
-const DURATION_SECONDS = 60;
-const HERO_IMAGE = "assets/objectif70-gym-hero.png";
+const DURATION_SECONDS = 43;
+const HERO_IMAGE = "assets/objectif70-grossout-gym-hero.png";
 
 type Scene = {
   id: string;
@@ -38,74 +38,122 @@ type Scene = {
 
 const scenes: Scene[] = [
   {
-    id: "s01_pov",
+    id: "s01_hook",
     from: 0,
-    duration: 3,
+    duration: 2.5,
     speaker: "Ananas Prime",
-    title: "OBJECTIF 70",
-    subtitle: "POV : premiere seance de sport,\nle tapis a declare la guerre.",
-    audio: "voices/episode-001-s01_pov-host.mp3",
-    crop: { startScale: 1.02, endScale: 1.08, x: 0, y: -20 },
-    badge: "NOUVELLE EPREUVE",
+    title: "DEJA SOUILLE",
+    subtitle: "POV : premiere seance,\nMangolo transpire deja.",
+    audio: "voices/episode-001-v3-s01_hook-host.mp3",
+    crop: { startScale: 1.0, endScale: 1.08, x: 0, y: -20 },
+    badge: "OBJECTIF 70",
     tint: "rgba(255, 206, 84, 0.22)",
   },
   {
-    id: "s02_tapis",
-    from: 3,
-    duration: 7,
+    id: "s02_machine",
+    from: 2.5,
+    duration: 4.5,
     speaker: "Mangolo",
-    title: "LE TAPIS ATTAQUE",
-    subtitle: "P*tain le tapis avance tout seul,\ncette machine a une attitude de m*rde.",
-    audio: "voices/episode-001-s02_tapis-candidate_4.mp3",
-    crop: { startScale: 1.12, endScale: 1.22, x: 0, y: -80 },
+    title: "LA MACHINE LE JUGE",
+    subtitle: "P*tain, le tapis me regarde.\nCette machine me juge.",
+    audio: "voices/episode-001-v3-s02_machine-candidate_4.mp3",
+    crop: { startScale: 1.08, endScale: 1.2, x: 0, y: -80 },
     badge: "PANIC MODE",
     tint: "rgba(255, 82, 64, 0.18)",
   },
   {
-    id: "s03_genoux",
-    from: 10,
-    duration: 14,
-    speaker: "Mangolo",
-    title: "CONFESSIONNAL",
-    subtitle: "Moi je cours pas, je negocie\navec mes genoux. Ils sont syndiques.",
-    audio: "voices/episode-001-s03_genoux-candidate_4.mp3",
-    crop: { startScale: 1.62, endScale: 1.76, x: -10, y: -310 },
-    badge: "MAUVAISE FOI",
+    id: "s03_roast",
+    from: 7,
+    duration: 4,
+    speaker: "Citronel",
+    title: "C'EST UNE PLAINTE",
+    subtitle: "Trois secondes et il demande un avocat.\nC'est pas du cardio, c'est une plainte.",
+    audio: "voices/episode-001-v3-s03_roast-candidate_5.mp3",
+    crop: { startScale: 1.2, endScale: 1.34, x: -80, y: -30 },
+    badge: "LA VILLA CHAMBRE",
     tint: "rgba(120, 67, 255, 0.2)",
   },
   {
     id: "s04_coach",
-    from: 24,
-    duration: 15,
+    from: 11,
+    duration: 4,
     speaker: "Coach Broco",
-    title: "LE COACH ARRIVE",
-    subtitle: "Respire. Le tapis t'en veut pas personnellement,\nmais il te respecte pas non plus.",
-    audio: "voices/episode-001-s04_coach-coach.mp3",
-    crop: { startScale: 1.42, endScale: 1.58, x: -210, y: -180 },
+    title: "FUITE DE DIGNITE",
+    subtitle: "Respire. Le tapis te poursuit pas,\ntu fuis la dignite.",
+    audio: "voices/episode-001-v3-s04_coach-coach.mp3",
+    crop: { startScale: 1.28, endScale: 1.42, x: -140, y: -140 },
     badge: "RESPECTE LA MACHINE",
     tint: "rgba(70, 221, 143, 0.2)",
   },
   {
-    id: "s05_bande_annonce",
-    from: 39,
-    duration: 12,
-    speaker: "Citronel",
-    title: "TRIBUNAL DU TAPIS",
-    subtitle: "Pause au bout de huit secondes.\nChef, c'etait une bande-annonce.",
-    audio: "voices/episode-001-s05_bande_annonce-candidate_5.mp3",
-    crop: { startScale: 1.18, endScale: 1.3, x: 0, y: -80 },
-    badge: "LA VILLA JUGE",
+    id: "s05_peachea",
+    from: 15,
+    duration: 4,
+    speaker: "Peachea",
+    title: "SAUCE SUR LA RAMPE",
+    subtitle: "Il a mis de la sauce sur la rampe.\nLe tapis a glisse dans sa honte.",
+    audio: "voices/episode-001-v3-s05_peachea-candidate_1.mp3",
+    crop: { startScale: 1.22, endScale: 1.36, x: 130, y: -90 },
+    badge: "DEGOUT DE LA VILLA",
     tint: "rgba(255, 236, 112, 0.2)",
   },
   {
-    id: "s06_cliffhanger",
-    from: 51,
-    duration: 9,
+    id: "s06_bananito",
+    from: 19,
+    duration: 4,
+    speaker: "Bananito",
+    title: "SEANCE MIXTE",
+    subtitle: "S'il transpire la frite,\nc'est une seance mixte.",
+    audio: "voices/episode-001-v3-s06_bananito-candidate_2.mp3",
+    crop: { startScale: 1.22, endScale: 1.38, x: 120, y: -10 },
+    badge: "MAUVAISE FOI",
+    tint: "rgba(255, 95, 95, 0.2)",
+  },
+  {
+    id: "s07_confessionnal",
+    from: 23,
+    duration: 5,
+    speaker: "Mangolo",
+    title: "MON BIDE VOTE CONTRE",
+    subtitle: "Je cours pas, je negocie avec mon bide.\nLui il vote contre moi.",
+    audio: "voices/episode-001-v3-s07_confessionnal-candidate_4.mp3",
+    crop: { startScale: 1.38, endScale: 1.52, x: 0, y: -170 },
+    badge: "CONFESSIONNAL",
+    tint: "rgba(255, 95, 95, 0.2)",
+  },
+  {
+    id: "s08_serpilliere",
+    from: 28,
+    duration: 5,
+    speaker: "Coach Broco",
+    title: "SERPILLIERE",
+    subtitle: "Il reste l'echauffement,\net le sol demande une serpilliere.",
+    audio: "voices/episode-001-v3-s08_serpilliere-coach.mp3",
+    crop: { startScale: 1.18, endScale: 1.34, x: -120, y: -120 },
+    badge: "LE COACH CRAQUE",
+    tint: "rgba(70, 221, 143, 0.2)",
+  },
+  {
+    id: "s09_survet",
+    from: 33,
+    duration: 5,
+    speaker: "Citronel",
+    title: "LE SURVET ABANDONNE",
+    subtitle: "Son survetement a abandonne.\nLa fermeture fait ses valises.",
+    audio: "voices/episode-001-v3-s09_survet-candidate_5.mp3",
+    crop: { startScale: 1.32, endScale: 1.5, x: 30, y: -220 },
+    badge: "ROAST FINAL",
+    tint: "rgba(255, 236, 112, 0.2)",
+  },
+  {
+    id: "s10_cliffhanger",
+    from: 38,
+    duration: 5,
     speaker: "Ananas Prime",
-    title: "PAS ENCORE COMMENCE",
-    subtitle: "Le coach annonce que\nl'echauffement n'avait meme pas commence.",
-    audio: "voices/episode-001-s06_cliffhanger-host.mp3",
-    crop: { startScale: 1.33, endScale: 1.48, x: 120, y: -120 },
+    title: "LES ESCALIERS",
+    subtitle: "La production annonce la deuxieme machine :\nles escaliers.",
+    audio: "voices/episode-001-v3-s10_cliffhanger-host.mp3",
+    crop: { startScale: 1.0, endScale: 1.18, x: 0, y: -30 },
     badge: "CLIFFHANGER",
     tint: "rgba(255, 95, 95, 0.2)",
   },
@@ -153,7 +201,9 @@ const SceneLayer: React.FC<{ scene: Scene }> = ({ scene }) => {
   });
   const imageScale = interpolate(progress, [0, 1], [scene.crop.startScale, scene.crop.endScale], clamp);
   const shake =
-    scene.id === "s02_tapis" ? Math.sin(frame * 0.7) * 10 : scene.id === "s06_cliffhanger" ? Math.sin(frame * 0.45) * 6 : 0;
+    scene.id === "s02_machine" || scene.id === "s07_confessionnal"
+      ? Math.sin(frame * 0.7) * 12
+      : Math.sin(frame * 0.45) * 5;
   const flashOpacity = interpolate(frame, [0, 4, 12], [0.72, 0.18, 0], clamp);
 
   return (
@@ -183,7 +233,7 @@ const SceneLayer: React.FC<{ scene: Scene }> = ({ scene }) => {
       <TitleBlock scene={scene} />
       <Subtitle text={scene.subtitle} />
       <AudioBars />
-      <SceneProgress from={scene.from} duration={scene.duration} />
+      <SceneProgress duration={scene.duration} />
     </AbsoluteFill>
   );
 };
@@ -409,10 +459,9 @@ const AudioBars: React.FC = () => {
   );
 };
 
-const SceneProgress: React.FC<{ from: number; duration: number }> = ({ from, duration }) => {
+const SceneProgress: React.FC<{ duration: number }> = ({ duration }) => {
   const frame = useCurrentFrame();
-  const local = Math.max(0, frame - from * FPS);
-  const width = interpolate(local, [0, duration * FPS], [0, 1], clamp);
+  const width = interpolate(frame, [0, duration * FPS], [0, 1], clamp);
 
   return (
     <div
@@ -450,7 +499,7 @@ const SeriesHud: React.FC = () => {
           textTransform: "uppercase",
         }}
       >
-        AIGC - TEST 02
+        AIGC - TEST 03
       </div>
       <div
         style={{
