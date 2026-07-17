@@ -2,22 +2,28 @@
 
 ## Decision
 
-The cheapest clean pipeline is **image-first + Remotion**, with optional short
-Veo clips only when a scene needs real motion.
+The quality target is **image-first + image-to-video clips + Remotion**.
+Remotion alone is not enough for the final visual style because it can only
+animate layers, camera moves, captions, and effects. It should not be used as
+the only motion source for production episodes.
 
 ## Recommended pipeline
 
 1. Generate reusable character and scene images with ChatGPT image generation.
-2. Keep one strong image per scene or per episode.
-3. Animate locally in Remotion:
-   - camera push-ins;
+2. Use Gemini prompts to improve prompt precision and continuity.
+3. Convert key images into 4-6 second image-to-video clips with Kling, Veo, or
+   another low-cost video model.
+4. Use ElevenLabs for voices, with one stable voice per character.
+5. Use a lip-sync tool or video model support when a character is speaking.
+6. Assemble in Remotion:
+   - fast cuts;
    - punch zooms;
-   - cuts and flashes;
-   - subtitles;
+   - whoosh/glitch transitions;
+   - sound effects;
+   - optional subtitle burn-in;
    - voice timing;
-   - simple audio-reactive elements.
-4. Use ElevenLabs for voices.
-5. Use Veo only for rare 4-8 second inserts.
+   - final 1080x1920 MP4 export.
+7. Optional: finish subtitles manually or automatically in CapCut Pro.
 
 ## Cost logic
 
@@ -41,21 +47,27 @@ unlikely. Real production should assume retries.
 
 ## Practical budget target
 
-Use Veo for at most 5-10 seconds per episode:
+Use paid video generation for only the shots that need real character motion.
+For a 35-60 second episode, prefer:
 
-- 5 seconds at 720p Lite: about 0.25 USD per episode;
-- 10 seconds at 720p Lite: about 0.50 USD per episode.
+- 6-10 image-to-video clips of 4-6 seconds;
+- reuse character intro shots across episodes;
+- regenerate only weak scenes;
+- keep Remotion effects local and free.
 
-Then Remotion handles the rest locally.
+Remotion handles the edit, pacing, captions, music, and final render locally.
 
 ## Quality target
 
-The target look is:
+The locked target look is:
 
-- high-quality vertical 3D cartoon stills;
-- aggressive reality-TV pacing;
-- large readable subtitles;
+- clean luxury tropical villa, not dirty or horror;
+- fruit-headed contestants with cartoon bodies and very large round bellies;
+- glossy saturated 3D animation;
+- confession-room shots with neon character names;
+- aggressive reality-TV pacing, transitions, whooshes, and punch zooms;
+- large readable subtitles without black background boxes;
 - recurring fruit characters;
-- motion created with camera moves, cuts, overlays, zooms, and audio rhythm.
+- lip-sync or mouth motion when a character speaks.
 
-This should be good enough for daily testing without burning video credits.
+Remotion-only tests are useful for timing and layout, but not for final quality.

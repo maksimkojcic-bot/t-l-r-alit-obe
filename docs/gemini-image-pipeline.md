@@ -40,8 +40,12 @@ gemini-3.1-flash-lite-image
 
 ## Fallback recommande
 
-Utiliser ChatGPT image pour creer les assets fruits de base, puis Remotion pour
-les animer. C'est la voie principale tant que Gemini image n'a pas de quota gratuit.
+Utiliser ChatGPT image pour creer les assets fruits de base, puis Kling, Veo ou
+un autre modele image-to-video pour creer de vrais clips animes. Remotion sert
+ensuite a monter, rythmer, sous-titrer, ajouter transitions/bruitages, puis exporter.
+
+Pour les tests rapides, Remotion peut animer une image avec zooms et tremblements.
+Ce mode ne doit pas etre considere comme le rendu final.
 
 Modele plus qualitatif, a utiliser plus rarement :
 
